@@ -23,5 +23,10 @@
         "name":"Game Hub",
         "img":"https://abdullahi-321.github.io/game-hub/",
         "class":"img-gamehub"
+    },
+    {
+        "name":"Memory Game",
+        "img":"https://abdullahi-321.github.io/memory-game/",
+        "class":"img-memorygame"
     }
 ]
