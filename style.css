@@ -130,6 +130,11 @@ section a {
   background-size: cover;
 }
 
+.img-memorygame {
+  background: url(./assets/memorygame.png) no-repeat top;
+  background-size: cover;
+}
+
 .p-div-text {
   background: transparent;
   padding: 0.5rem 0;
